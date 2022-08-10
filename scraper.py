@@ -20,6 +20,5 @@ def get_citations_needed_report(url):
 
 
 get_citations_needed_count(url)
-     pass
 
 get_citations_needed_report(url)
